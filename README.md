@@ -1,4 +1,4 @@
-### README: My Personal Notes for eCTHPv2
+### My Personal Notes for eCTHPv2
 
 Welcome to my personal notes repository for **eCTHPv2**! This collection serves as a consolidated reference for topics, concepts, and insights related to the eCTHPv2 curriculum.  
 
